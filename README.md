@@ -100,3 +100,8 @@ Required tokens: OpenAI API key, Facebook Page Access Token, Facebook Page ID, I
    - Go to the graph API, allow the above permissions
    - Enter GET graph.facebook.com/v22.0/me/accounts, the access token given in the 'access_token' field is your new page access token, page ID remains the same
    - Go back to your meta business suite, click on your instagram account, the ID shown above the name of your instagram account is your instagram account ID
+## Links
+1. Meta Business Suite Login: https://business.facebook.com/business/loginpage/?next=https%3A%2F%2Fbusiness.facebook.com%2F%3Fnav_ref%3Dbiz_unified_f3_login_page_to_mbs&login_options%5B0%5D=FB&login_options%5B1%5D=IG&login_options%5B2%5D=SSO&config_ref=biz_login_tool_flavor_mbs
+2. Facebook login: https://www.facebook.com/
+3. Meta for Developers login: https://business.facebook.com/business/loginpage/?next=https%3A%2F%2Fdevelopers.facebook.com%2F%3Fnav_ref%3Dbiz_unified_f3_login_page_to_dfc&app=436761779744620&login_options%5B0%5D=FB&login_options%5B1%5D=SSO&is_work_accounts=1&config_ref=biz_login_tool_flavor_dfc
+4. Instagram login: https://www.instagram.com/?flo=true
