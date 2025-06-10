@@ -81,7 +81,7 @@ Required tokens: OpenAI API key, Facebook Page Access Token, Facebook Page ID, I
    - Create a business portfolio on meta business suite (Sign in using your facebook account)
    - Connect your facebook account and the page
    - Grant the business portfolio full access to the page
-   - Go to meta for developers (Sign in using your facebook account)
+   - Go to meta for developers (Sign in using your facebook account) https://business.facebook.com/business/loginpage/?next=https%3A%2F%2Fdevelopers.facebook.com%2F%3Fnav_ref%3Dbiz_unified_f3_login_page_to_dfc&app=436761779744620&login_options%5B0%5D=FB&login_options%5B1%5D=SSO&is_work_accounts=1&config_ref=biz_login_tool_flavor_dfc
    - Create an app with use cases 'Manage Everything on Page' and 'Manage messaging and content on Instagram'
    - Connect this app to the business portfolio
    - Under permissions in 'Manage Everything on Page' allow the following: 'business_management', 'pages_manage_engagement', 'pages_manage_posts', 'pages_manage_metadata', 'pages_read_engagement', pages_read_user_content', 'pages_show_list', 'public_profile'
